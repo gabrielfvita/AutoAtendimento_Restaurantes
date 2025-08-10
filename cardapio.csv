@@ -1,0 +1,51 @@
+Produto,Preço,Categoria
+Combo Clássico,25.9,Combo
+Combo Duplo,32.5,Combo
+Combo Família,55.0,Combo
+Combo Kids,18.0,Combo
+Combo Bacon,29.9,Combo
+Combo Vegano,27.5,Combo
+Combo Frango,26.9,Combo
+Combo Premium,34.9,Combo
+Combo Light,24.0,Combo
+Combo Especial,36.5,Combo
+Hambúrguer Clássico,14.9,Lanche
+Cheeseburger,16.5,Lanche
+X-Bacon,18.9,Lanche
+X-Salada,17.0,Lanche
+X-Egg,17.9,Lanche
+Frango Grelhado,15.9,Lanche
+Veg Burger,16.0,Lanche
+Duplo Smash,19.5,Lanche
+Hot Dog,12.0,Lanche
+Sanduíche Natural,11.0,Lanche
+Batata Frita,8.0,Acompanhamento
+Batata Rústica,9.5,Acompanhamento
+Anéis de Cebola,7.9,Acompanhamento
+Nuggets,9.0,Acompanhamento
+Mini Salada,6.5,Acompanhamento
+Cheddar Fries,10.5,Acompanhamento
+Batata com Bacon,11.0,Acompanhamento
+Pastelzinho,7.0,Acompanhamento
+Bolinha de Queijo,8.5,Acompanhamento
+Palitinhos de Frango,10.0,Acompanhamento
+Refrigerante Lata,5.0,Bebida
+Refrigerante 600ml,6.5,Bebida
+Água Mineral,3.0,Bebida
+Água com Gás,3.5,Bebida
+Suco Natural,7.0,Bebida
+Suco de Caixinha,4.0,Bebida
+Chá Gelado,5.5,Bebida
+Energético,8.0,Bebida
+Cerveja Long Neck,7.5,Bebida
+Milkshake,9.9,Bebida
+Sorvete,6.0,Sobremesa
+Brownie,7.5,Sobremesa
+Torta de Limão,8.0,Sobremesa
+Pudim,6.5,Sobremesa
+Mousse de Maracujá,6.0,Sobremesa
+Petit Gateau,9.5,Sobremesa
+Milkshake de Oreo,10.0,Sobremesa
+Bolo de Chocolate,7.0,Sobremesa
+Paleta Mexicana,8.0,Sobremesa
+Creme de Papaya,7.9,Sobremesa
